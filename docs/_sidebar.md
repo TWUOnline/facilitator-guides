@@ -1,3 +1,13 @@
+General Info
+- [Assessment](assessment.md)
+- [Discussions](discussions.md)
+- [Facilitation](facilitation.md)
+- [Feedback](feedback.md)
+- [Job Description](job-description.md)
+- [Problems](problems.md)
+- [Writing](writing.md)
+
+Guides
 - [Anthropology 101](anth101.md)
 - [English 101](engl101.md)  
 - [Psychology 105](psyc105.md)  
