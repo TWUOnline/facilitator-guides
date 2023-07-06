@@ -1,4 +1,4 @@
-General Info
+## General Info
 - [Assessment](assessment.md)
 - [Discussions](discussions.md)
 - [Facilitation](facilitation.md)
@@ -7,7 +7,7 @@ General Info
 - [Problems](problems.md)
 - [Writing](writing.md)
 
-Guides
+## Guides
 - [Anthropology 101](anth101.md)
 - [English 101](engl101.md)  
 - [Psychology 105](psyc105.md)  
