@@ -84,3 +84,113 @@ Before each class, students are encouraged to view the entire unit that will be 
 
 ### Lab Assignments & Learning Activities
 Note that many Labs will be devoted to certain assignments and activities.  On the next pages are details for the lessons and assignments. Please refer to the course in Moodle for specifics.
+title: 'Module 1 Lesson Notes'
+---
+
+The following provides key information for the ENGL 101 – Module 1 (schedules, activity instructions, etc.). Please see the full course notes on Moodle.
+
+### Module 1: Introduction to Academic Writing
+
+
+### Activity Checklist
+
+![](Fac-Guide-M1.png)
+
+<br>
+<span style="color:blue">**Lab 1**:</span>
+
+### Professor: to-do-list
+
+  - Take attendance.
+
+  - Introduce herself.
+
+  - Introduce a facilitator and give her time for her introduction shortly.
+
+  - Explain how to view the course site in Moodle.
+
+  - Explain “Course Information” on Writing Center (Writing tutor & Learning coach)     and Library.
+
+  - Explain “Course syllabus”.
+
+  - Introduce how to view “M1 Lab Schedule” and “M1 e-book”.
+
+  - Introduce homework for Lab 2.
+
+### Facilitator: to-do-list after professor’s session
+
+  - Help students finish “Self-Introduction Paragraph” and post it to the given forum page by the end of the lab. *Make sure of their submission before they leave the lab*.
+
+  - Remind students of their homework for Lab 2.  
+
+  - NOTE: Remind students that **they must download an official Microsoft word to be ready for Lab 2.** The free download link is given in the Course Info & Announcements section.
+
+<br>
+<span style="color:blue">**Lab 2**:</span>
+
+### Facilitator: to-do-list
+
+- Take attendance.
+
+<br>
+**Lab Activity 1.1 \[APA Template\]:**
+
+a. This activity page has been hidden, so please activate the forum page link for students when they need to do this activity in the lab.
+
+b. Read the instructions for students. Doublecheck if students have watched my APA template tutorial video. If many students hadn’t watched it, play my tutorial video for them. Afterwards, ask students to create their own APA template. The authorship of the file should be their official name. For those who took WRTG 101 last term, they can “update” their APA template that they created last term. That should be fine.
+
+<br>
+**Lab Activity 1.2 \[APA Documentation\]:**
+
+a. This activity page has been hidden, so please activate the forum page link for students when they need to do this activity in the lab.
+
+b. Read the instructions for students.
+
+c. Group students (3~4 students per group) for breakout rooms. Let them do the lab activity 1.2. (Monitor each group’s work. If you can, give them brief feedback/guidance if some errors are noticeable.)
+
+d. Make sure if each group fully complete the activity before they leave.
+
+- Remind students of homework for Lab 3.
+
+<br>
+<span style="color:blue">**Lab 3**:</span>
+
+### Facilitator: to-do-list
+
+- Take attendance.
+
+- Doublecheck if students watched lesson videos or not.
+
+- Group students (3~4 students per group) for breakout rooms. In their breakout room, let them discuss what they learned from the lesson videos for 5 minutes. After group discussions in their breakout room, ask each group about what they discussed and share important key points of the video lessons. (– spend about 10~15 minutes.)
+
+<br>
+#### Lab Activity 1.3 \[References\]
+
+a. This activity forum page has been hidden, so please activate the forum page link for students when they need to do this activity in the class.
+
+b. Read the given instructions for the students.
+
+c. Group students (3~4 students per group) for breakout rooms. Let them do the lab activity 1.3. (Monitor each group’s work. If you can, give them brief feedback/guidance if some errors are noticeable.)
+
+d. Make sure if each group fully complete the activity before they leave.
+
+- Remind students of APA Quiz (5%) on Lab 4. They must attend the lab on that day. Otherwise, they will automatically get a grade of “0”.
+
+<br>
+<span style="color:blue">**Lab 4**:</span>
+
+### Facilitator: to-do-list
+
+- Take attendance.
+
+- Monitor students’ APA quiz with the professor.
+
+- Doublecheck students’ submission before they leave.
+
+- Remind students of homework for Lab 1 in Module 2.
+
+### Professor: to-do-list
+
+- Give instructions on APA quiz.
+
+- Monitor students’ APA quiz with the facilitator.
