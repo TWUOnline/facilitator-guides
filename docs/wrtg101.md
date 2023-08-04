@@ -975,4 +975,559 @@ Please check the details below.
 **M2- Checklist (Personal Response Essay)**
 
 - Refer to the attached [Personal Response Checklist](M2_Checklist.pdf).
-                                                                                                  
+
+title: 'Module 3 Lesson Notes'
+---
+
+
+### Module 3: Integration Essay
+
+### Activity Checklist
+
+![](M3_Checklist_updated.png)
+
+
+**The First Day of the Lab (Lab 1)**
+
+  - For this short announcement, do not spend more than 10 minutes. They
+    need to spend the whole class time to complete “Class Activity 1.1”.
+
+  - Explain the Module 3 schedule above and highlight the deadlines of
+    M3 worksheet, M3 in-class writing, and M3 final essay.
+
+  - Help students to find TWO important files given on Module 3 page in
+    Moodle:
+
+    1.  M3 Integration Essay Assignment (Instructions)
+
+    2.  M3 Worksheet (Template)
+
+    3.  M3 Worksheet (Example): (This hidden link will be open to
+        students in Lab 2.)
+
+    4.  The news video link: (This hidden link will be open to students
+        in Lab 2.)
+
+          - The case: “[Syrian Refugees in Canada facing challenges
+            after one
+            year](https://www.youtube.com/watch?v=VU7uttRJskE)”
+
+          - This is the case that they should watch in order to write
+            their integration paper individually.
+    <br> 
+    5.  M3 In-Class Writing template: (Make this hidden file visible to
+        students at the beginning of Lab 5 before they turn off the wifi. If students do their in-class writing online via Zoom, please ignore the comments on “the wifi” in           this facilitator guide. The instruction on the wifi can be applied ONLY when students write their in-class writing in their lab under a facilitator’s supervision face         to face.)
+
+  - Introduce the instructions of the Integration Essay Assignment and
+    show where the files of M3 assignment instructions and worksheet.
+    (<span style="color:red">**NOTE**: The news video for the case will be open to students at
+    the end of the class on Lab 2.</span>)
+
+*The information below is the ones that you already mentioned in Module 2. However, as a reminder, please inform the information below again “in
+short” if necessary:*
+
+  - There is also an M3- ongoing Dropbox where they can save their essay
+    drafts up to 20. Whenever they update/revise their essay, they need
+    to save their files such as “M3 draft 1 (Your name)”, and “M3 draft
+    2 (Your name)”. Even though you already mentioned this in Module 2,
+    please remind them about the purpose of this “ongoing” Dropbox
+    again:
+
+    1.  encourage students to work on their essay ‘step by step’ that
+        can show a instructor the process of their writing work.
+
+    2.  avoid losing their writing work accidentally. That is, they can
+        check this Dropbox to check their previous work, and then
+        continue their writing.
+
+    3.  be evidence to prove the originality of their writing work when
+        they face an academic dishonesty issue. When those who face the
+        plagiarism issue don’t have any files in this ongoing dropbox,
+        there will be a consequence based on the weight of their
+        plagiarism issue.
+
+- The final essay dropbox will be automatically closed at the due
+  time, so encourage students to submit their file on time. When they
+  mistakenly submitted a wrong file, the facilitator (or the
+  instructor) can delete the wrong file for them and give them a second
+  chance to resubmit it “immediately”. When the facilitator deletes
+  their wrong file, please send the list of students who resubmitted
+  their essay to the instructor by email.
+
+    1.  There might be one or two students whose final essay Dropbox
+        doesn’t allow them to submit their essay (i.e. technical error).
+        In this case, ask them to submit their final essay to their M3
+        ongoing dropbox and email the instructor with the essay file,
+        too.
+
+-  If students had to miss the deadline of the essay due to an urgent
+   issue related to “family or severe sickness”, they should
+   communicate with the instructor promptly by email. In terms of
+   sickness, they will need to provide the instructor with an official
+   medical report.
+
+-  Inform that if their late submission becomes a pattern, it will
+   result in the 3% deduction of their “final” grade of this course at
+   the end of the semester.
+
+-  When they email the instructor, they should indicate their official
+   (and English) name, student ID, and class name. Their instructor will
+   probably have over 100 students this semester, so it is important to
+   indicate their identification clearly.
+
+### Lesson 2: Thinking Stage
+
+**Lab Activity 1.1 \[Lesson 2- Understanding a Theory\]:** (Group work: 3~4 students per group) 6 wiki pages are needed for this activity/hidden view for students.
+
+**Check your understanding of a theory given in Module 3 with your group
+members**. To participate in this activity, you must read the two
+articles before the class.
+
+  - **Read** the two articles about Maslow’s theory given in Module 3 in
+    advance.
+
+  - You can find which level of the hierarchy of needs in Maslow’s
+    theory and the name of your group members on the title of the wiki
+    page assigned in Moodle.
+
+      - Physiological needs
+
+      - Safety needs
+
+      - Belongingness and love needs
+
+      - Needs for self-esteem
+
+      - Needs for self-actualization
+
+      - Needs for self-transcendence
+
+  - With your group members, **select the most important theoretical
+    concepts in the assigned hierarchy of needs**.
+
+  - **Post** <span class="underline">3~4 important concepts of the
+    theory with proper quotation marks and citations to the designated
+    wiki page</span> as a group by the end of the class. (NOTE: DO NOT
+    paraphrase them, but just copy and paste the concepts with proper
+    APA documentation.)
+
+  - <span style="color:red">**\[HOMEWORK for the NEXT class\]:</span>**
+
+      - With your group members, <span style="color:red">**post a 3-minute presentation video to
+        the same wiki page** **before the next class**</span>.
+
+      - **Individually, READ all the groups’ postings and WATCH each
+        video to understand the entire theory. This is your own
+        responsibility to do this homework.**
+
+<span style="color:red">**\[NOTEs to the facilitator\]**</span>
+
+The SIX wiki pages have been hidden, so please make them visible to the
+students when they need to do this activity in the class.
+
+1.  Make sure that they have read the two articles in advance.
+
+2.  The instructor will indicate group members’ name directly on the wiki
+    links like below.
+
+    ![](M3Image.png)
+
+      - Physiological needs (3~4 students)
+
+      - Safety needs (4~5 students)
+
+      - Belongingness and love needs (2 students)
+
+      - Needs for self-esteem (2 students)
+
+      - Needs for self-actualization (2 students)
+
+      - Needs for self-transcendence (3~4 students)
+    <br> 
+3. To access the wiki page, they need to click “HTML format” and then
+    the button “Create page” like below.
+
+    ![](Image2.png)
+
+4. To post 3~4 quotes from the given article(s), they just need to
+    copy and paste the information from the article(s) to the given wiki
+    text space and then click the button “SAVE”.
+
+    ![](Image3.png)
+
+5. To re-enter the wiki text space, they need to click the “Edit” tap
+    given on the top left.
+
+    ![](Image4.png)
+
+6. **They should NOT paraphrase the theory**. They just need to copy
+    and paste the 3~4 most important information of the theory with
+    proper quotation marks and citations.
+
+7. If some of the groups finish their wiki task early, encourage them
+    to record their 3-minute group presentation. This video presentation
+    is informal, so the video should not look fancy. They can use their
+    cellphone or laptop camera to deliver the core meaning of their
+    theory in the video clearly. Clarity of the content is important.
+
+8. To post the video, they can upload it to Youtube or Google Drive to
+    share its link. If these two are not available in their country, the
+    facilitator can collect/save the videos to the “Stream” that TWU
+    provides you with via Office 365. Then, share their links to the
+    wiki pages on behalf of them. (If this doesn’t work for the
+    facilitator, please consult with the instructor.)
+
+**\[NOTE\]:**
+
+  - Please take attendance. This will be counted for a participation
+    mark.
+
+  - Please use the excel file that I have given you in Module 1 in order
+    to record each student’s “contribution” to the group work ranged
+    from 5 to 0. You will need to send the file to the instructor by the
+    end of the semester.
+
+<br>
+### Lesson 3: Writing Stage
+
+**Lab Activity 1.2 \[Lesson 3- Background Paragraph\]:** (Group work: 3~4 students per group) Forum page is hidden from students.
+
+**\[Instructions\]:**
+
+1.  **Watch the CBC News video, “[Young Syrian refugees talk about life
+    back
+    home](https://www.cbc.ca/news/canada/newfoundland-labrador/programs/hereandnow/young-syrian-refugees-talk-about-life-back-home-1.4049401)”
+    as a whole class first.**
+
+2.  With your group members, watch the video again and write down
+    important facts that interviewers said in the video.
+
+3.  Share your notes with your partners and **summarize** the refugee
+    situation (i.e. the case) in about 100-150 words.
+
+      - Include all the information based on the instructions given in
+        Lesson 3 above.
+
+      - Because this is a practice, you don’t need to write a transition
+        sentence at the end of your background paragraph.
+
+
+4.  Post your group summary to the forum page as a group by the end of
+    the class.
+
+<span style="color:red">**\[NOTEs to the facilitator\]**</span>
+
+This activity forum page has been hidden, so please activate the forum
+page link for students when they need to do this activity in the class.
+
+1.  Show the video “[Young Syrian refugees talk about life back
+    home](https://www.cbc.ca/news/canada/newfoundland-labrador/programs/hereandnow/young-syrian-refugees-talk-about-life-back-home-1.4049401)”
+    as a whole class.
+
+2.  Encourage students to take notes while watching the video
+    individually.
+
+3.  Group 3~4 students per group.
+
+4.  Ask them to share their notes, and then identify important facts
+    based on Lesson 3.
+
+5.  They can directly post their written work to the Forum page.
+
+<ins>*How to post their work to the Forum page?*</ins>
+
+a.  Click “Add a new discussion topic”.
+
+b. Write down each group members’ name in the “Subject” section.
+
+c. Post their work to the “Message”
+
+d. Click “Post to forum”.
+
+<!-- end list -->
+
+6.  *The purpose of this activity is to help students to experience how
+    to write a background paragraph. Thus, it is fine to submit an
+    incomplete background paragraph.*
+
+7.  <span style="color:red">**Homework announcement:**</span>
+
+<!-- end list -->
+
+a.  Re-introduce M3 Assignment Instructions and M3 Worksheet.
+
+b.  READ the M3 assignment instructions for them, and note that they
+    should start working on their M3 worksheet.
+
+c.  Make the link of the news video (the case) visible to students:
+    “[Syrian Refugees in Canada facing challenges after one
+    year](https://www.youtube.com/watch?v=VU7uttRJskE)”
+
+d.  Make the worksheet EXAMPLE file visible to students as well.
+
+e.  Also, highlight when to submit their worksheet. They need to submit
+    their worksheet to M3 Ongoing Dropbox.
+
+**\[NOTE\]:**
+
+  - Please take attendance. This will be counted for a participation
+    mark.
+
+  - Please use the excel file that I have given you in Module 1 in order
+    to record each student’s contribution to the group work ranged from
+    5 to 0. You will need to send the file to the instructor by the end
+    of the semester.
+    
+   <br> 
+ **Lab Activity 1.3 \[Lesson 3- Body Paragraphs\]:** (Group work: 3~4 students per group) Forum page is hidden from students.
+
+**\[Instructions\]:**
+
+1.  **Each group re-watch the CBC News video, “[Young Syrian refugees
+    talk about life back
+    home](https://www.cbc.ca/news/canada/newfoundland-labrador/programs/hereandnow/young-syrian-refugees-talk-about-life-back-home-1.4049401)”..**
+
+2.  With your group members, **identify** what levels of Maslow's
+    hierarchy of needs Syrian children refugees have achieved or lacked,
+    and **find** theoretical evidence from Maslow’s article(s).
+
+3.  Also, **choose** which scene or event described in the video can be
+    connected to the theory.
+
+4.  **Decide** how to organize your group body paragraph: organized by
+    theory or case.
+
+5.  **Write** one body paragraph with your group members based on the
+    body paragraph structure.
+
+6.  **Post** your group body paragraph to the forum page as a group by
+    the end of the class.
+
+<span style="color:red">**\[NOTEs to the facilitator\]**</span>
+
+This activity forum page has been hidden, so please activate the forum
+page link for students when they need to do this activity in the class.
+
+1.  Group 3~4 students per group.
+
+2.  Let each group re-watch the video “[Young Syrian refugees talk about
+    life back
+    home](https://www.cbc.ca/news/canada/newfoundland-labrador/programs/hereandnow/young-syrian-refugees-talk-about-life-back-home-1.4049401)”
+    if necessary.
+
+3.  Encourage students to choose proper theoretical concept(s) and the
+    useful part of the case to integrate.
+
+4.  While they are writing a body paragraph, please make sure if they
+    are clearly following the body paragraph structure or not. If not,
+    help them to check the two examples of the body paragraph.
+
+5.  They can directly post their written work to the Forum page.
+
+<ins>*How to post their work to the Forum page?*</ins>
+
+a.  Click “Add a new discussion topic”.
+
+b.  Write down each group members’ name in the “Subject” section.
+
+c.  Post their work to the “Message”
+
+d.  Click “Post to forum”.
+
+<!-- end list -->
+
+1.  It is fine for students to post an “incomplete” paragraph as the
+    focus of this activity is to let them experience how to write a body
+    paragraph. Thus, just let them post what they have at the end of the
+    class.
+
+2.  <span style="color:red">**Homework announcement:**</span>
+
+<!-- end list -->
+
+  - Remind/highlight the deadline of their M3 worksheet: by the end of
+    the next class.
+
+    They need to submit their worksheet to M3 Ongoing Dropbox.
+
+  - Because of the deadline, they will need to bring their worksheet
+    mostly 80% completed to the next class. Their facilitator will check
+    their completion and may be able to check their thesis statement and
+    give them brief feedback at least ( this is optional).
+
+  - Remind them that M3 in-class writing (8%) will be on the LAST Lab of Module 3.
+
+**\[NOTE\]:**
+
+  - Please take attendance. This will be counted for a participation
+    mark.
+
+  - Please use the excel file that I have given you in Module 1 in order
+    to record each student’s contribution to the group work ranged from
+    5 to 0. You will need to send the file to the instructor by the end
+    of the semester.    
+    
+ <br>
+**Lab Activity 1.4 \[Finalizing M3 Worksheet\]**: (Individual work)
+
+**You have a full class time (75 minutes) to complete your M3
+worksheet**. Spend the time finalizing your worksheet effectively and
+submit your worksheet to M3 Ongoing dropbox by the end of the class. I
+will receive your instructor feedback in 2~3 days.
+
+<span style="color:red">**\[NOTEs to the facilitator\]- <ins>On-campus version**</ins></span>
+
+  - While students are working on their worksheet, check their thesis
+    statement if you feel comfortable checking it. You are not
+    responsible for their content but can check their grammatical
+    issues.
+
+  - If possible, doublecheck if they are using proper sources.
+
+      - Theory: The TWO Maslow’s articles that the instructor has
+        provided them with.
+
+      - Case: “[Syrian Refugees in Canada facing challenges after one
+        year](https://www.youtube.com/watch?v=VU7uttRJskE)”
+
+  - Remind students that M3 in-class writing (8%) will proceed on the
+    LAST Lab of Module 3.
+
+<!-- end list -->
+
+  - For 75 minutes, they will write a body paragraph.
+
+  - They will use an M3 in-class writing template provided in Moodle.
+
+  - They should NOT be late or absent on that day.
+
+      - Those who came late for the class will not be given any extra
+        time.
+
+      - Absentees will receive a “zero” grade automatically.
+
+<!-- end list -->
+
+  - They should be on time and bring their laptop and a laptop charger.
+
+  - During the in-class writing, they are only allowed to check their
+    worksheet and Maslow’s articles.
+
+  - They should turn off the wifi before the in-class writing starts. (On-campus version)
+
+  - They are NOT allowed to use any translators during the in-class
+    writing. Using a dictionary is fine.
+
+  - At the end of the lab, ALL the students turn on the wifi (On-campus version), and then
+    submit their file to M3 on-going dropbox.
+
+**\[NOTE\]:**
+
+  - Please take attendance. This will be counted for a participation
+    mark.
+
+  - Please use the excel file that I have given you in Module 1 in order
+    to record each student’s effort to work on their worksheet ranged
+    from 5 to 0. You will need to send the file to the instructor by the
+    end of the semester.
+
+### <span style="color:blue">Assessment</span>
+
+In Module 3, you participated in a number of in-class activities and
+class activities. Especially, the three class activities are to be
+completed in class and submitted to the instructor via Forum pages.
+
+![](M3Chart_updated.png)
+
+<br>
+### <span style="color:blue">M3 Worksheet: 5%</span>
+
+  - Read M3 Assignment (Instructions) and 2 articles given (Maslow’s
+    theory).
+
+  - Use Me Worksheet (Template).
+
+  - Refer to Me Worksheet (example).
+
+  - Submit your M2 Worksheet to the Me on-going dropbox.
+
+  - <span style="color:red">**Deadline**: Instructor will inform you (a facilitator) the deadline at the beginning of Module 3.</span>
+
+  - Students will receive feedback from their instructor within 2~3
+    days.
+
+
+### <span style="color:blue">M3 In-class Writing: 5%</span>
+
+  - When: The LAST Lab of Module 3.
+
+  - Do NOT be late or absent on that day.
+
+      - Those who came late for the class will not be given any extra
+        time.
+
+      - Absentees will receive a “zero” grade automatically.
+
+  - Students will have a full lab time (75 minutes) to write one of
+    their body paragraphs as M3 In-class writing.
+
+  - They will use an M3 in-class writing template provided in Moodle.
+
+<!-- end list -->
+
+a.  They should be on time and bring their laptop and a laptop charger.
+
+b.  During the in-class writing, they are only allowed to check their
+    worksheet and the two articles given by your instructor.
+
+c.  They should turn off the wifi before the in-class writing starts.
+
+d.  They are NOT allowed to use any translators during the in-class
+    writing. Using a dictionary is fine.
+
+e. At the end of the class, ALL the students turn on the wifi, and then
+    submit their file to M3 on-going dropbox.
+
+
+<span style="color:red">**\[NOTEs to the facilitator\]** (On-campus version)</span>
+
+  - Make the M3 in-class writing template visible when everyone is ready
+    to write their body paragraph.
+
+  - Doublecheck if all the students’ wifi is turned off.
+
+  - Doublecheck if they are referring to their M3 worksheet and the two
+    articles ONLY.
+
+  - Doublecheck if they submitted a correct file before they leave.
+
+  - If many of the students need more time, give them 5-10 minutes more.
+
+
+### <span style="color:blue">M3 Final Essay: 10%</span>
+
+  - Doublecheck your essay follows the M3 Assignment (Instructions)
+    clearly.
+
+  - Revise your body paragraph based on your instructor’s feedback on
+    your M3 in-class writing. Do not include the same mistakes in your
+    final draft. Your instructor will check if you have read the
+    instructor’s feedback or not.
+
+  - Before you submit your M3 Final essay file, review your essay based
+    on “M3 Checklist”. That is the most important step to get a good
+    grade.
+
+  - Submit your M3 Final essay file to the M3 Final Essay Dropbox
+    (Turnitin) on time.
+
+  - <span style="color:red">**Deadline**: Instructor will inform you (a facilitator) the deadline at the beginning of Module 3.</span>
+
+
+### <span style="color:blue">Grading Criteria</span>:
+
+**M3- Checklist (Integration Essay)**
+
+- Refer to the attached [M3 Integration Essay Checklist](M3-Checklist-Integration-Essay.pdf)
+
+ 
