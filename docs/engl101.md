@@ -60,8 +60,7 @@ encounter scholarly **complexity**.
 
 For more syllabus details, including course policies and grading guidelines, see the full syllabus.
 
-title: 'introduction'
----
+
 
 
 ### Facilitation Guide: Introduction
@@ -81,8 +80,8 @@ Before each class, students are encouraged to view the entire unit that will be 
 
 ### Lab Assignments & Learning Activities
 Note that many Labs will be devoted to certain assignments and activities.  On the next pages are details for the lessons and assignments. Please refer to the course in Moodle for specifics.
-title: 'Module 1 Lesson Notes'
----
+
+
 
 The following provides key information for the ENGL 101 – Module 1 (schedules, activity instructions, etc.). Please see the full course notes on Moodle.
 
