@@ -1,7 +1,4 @@
-#title: 'Course Overview and Syllabus'
----
-
-### Course Overview
+# Course Overview
 
 ### Syllabus
 
