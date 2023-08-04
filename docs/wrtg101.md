@@ -474,3 +474,505 @@ If not, the mark of your part 3 will be “0”.
 ### <span style="color:blue">Grading Criteria:</span>
 
 See the attached M1 rubric [here](M1_Rubric.pdf)
+
+title: 'Module 2 Lesson Notes'
+---
+
+### Module 2: Personal Response
+
+### Activity Checklist
+
+![](M2_Checklist_updated.png)
+
+<br>
+<span style="color:red">**[NOTES to the facilitator]:** The First Day of the lab for Module 2 (Lab 1)</span>
+
+  - Explain the Module 2 schedule above and highlight the deadlines of
+    M2 worksheet, M2 in-class writing, and M2 final essay.
+
+  - Help students to find THREE important files given on Module 2 page
+    in Moodle:
+
+    1.  M2 Personal Response Assignment (Instructions)
+
+    2.  M2 Worksheet (Template)
+
+    3.  M2 Worksheet (Example)
+
+    4.  M2 In-Class Writing template: (Make this hidden file visible to students at the beginning of the Lab 5, before they turn off the wifi. If students do their in-class writing online via Zoom, please ignore the comments on “the wifi” in this facilitator guide. The instruction on the wifi can be applied ONLY when students write their in-class writing in their lab under a facilitator’s supervision face to face.)
+
+  - Introduce the instructions of the Personal Response Assignment. That
+    is, READ the instructions for the students. Then, ask students to
+    choose ONE topic from the topic list by the next lab.
+
+  - There is also an M2- ongoing dropbox where they can save their essay
+    drafts up to 20. Whenever they update/revise their essay, they need
+    to save their files such as “M2 draft 1 (Your name)”, and “M2 draft
+    2 (Your name)”. The purpose of this “ongoing” Dropbox is to:
+
+    1.  encourage students to work on their essay ‘step by step’ that
+        can show a instructor the process of their writing work.
+
+    2.  avoid losing their writing work accidentally. That is, they can
+        check this Dropbox to check their previous work, and then
+        continue their writing.
+
+    3.  be evidence to prove the originality of their writing work when
+        they face an academic dishonesty issue. When those who face the
+        plagiarism issue don’t have any files in this ongoing dropbox,
+        there will be a consequence based on the weight of their
+        plagiarism issue.
+        <br>
+  - The final essay dropbox will be automatically closed at the due
+    time, so encourage students to submit their file on time. When they
+    mistakenly submitted a wrong file, the facilitator (or the
+    instructor) can delete the wrong file for them and give them a second
+    chance to resubmit it “immediately”. When the facilitator deletes
+    their wrong file, please send the list of students who resubmitted
+    their essay to the instructor by email.
+
+    1.  There might be one or two students whose final essay dropbox
+        doesn’t allow them to submit their essay (i.e. technical error).
+        In this case, ask them to submit their final essay to their M2
+        ongoing dropbox and email the instructor with the essay file,
+        too.
+     <br>
+  - If students had to miss the deadline of the essay due to an urgent
+    issue related to “family or severe sickness”, they should
+    communicate with the instructor promptly by email. In terms of
+    sickness, they will need to provide the instructor with an official
+    medical report.
+
+  - Inform that if their late submission becomes a pattern, it will
+    result in the 3% deduction of their “final” grade of this course at
+    the end of the semester.
+
+  - When they email the instructor, they should indicate their official
+    (and English) name, student ID, and class name. Their instructor will
+    probably have over 100 students this semester, so it is important to
+    indicate their identification clearly.
+
+### Learning Outcomes
+
+When you have completed this module, you should be able to:
+
+  - Explain what personal response is and how to apply it to university
+    writing assignments.
+
+  - Distinguish between primary and secondary sources.
+
+  - Sketch the outline of the essay by selecting appropriate evidence to
+    support a thesis statement. 
+
+  - Express four different kinds of personal responses based on the
+    given primary source.
+
+  - Understand and apply deductive pattern from introduction to
+    conclusion.
+
+  - Apply APA formatting/documentation.
+
+
+### Lesson 4: Thinking Stage
+
+**Lab Activity 1.5 \[Lesson 4- Thinking Stage\]:** (Group work: 3~4
+students per group) *– Forum page hidden view for students*
+
+**\[Instructions\]:**
+
+1.  **Watch “Remember Africville” together in your class.**
+
+<!-- end list -->
+
+  - Prompt (Video): [“Remember
+    Africville”](https://youtu.be/28cvg6iD7lA)
+
+<!-- end list -->
+
+2.  **While watching the video, take lots of notes on the Wh-Questions
+    individually.** You don’t have to answer all the questions given in
+    the chart below, but choose the best 3~5 questions that can help
+    you to write meaningful responses.
+
+    ![](Facilitator_Guide_M2_Chart.png)
+
+3.  **Share your notes with your partners, and then** <span style="color:red">**identify the main
+    topic**</span> of the video <ins>in ONE general word</ins>.
+
+4.  Also, <span style="color:red">**select TWO important events**</span> described in the video that
+    can support the main idea.
+
+5.  Lastly, decide <span style="color:red">**your overall response**</span> as a group.
+
+6.  Post the three pieces of information to the forum page as a group at
+    the end of the class.
+
+       A. The main topic of the video
+       
+       B. Two important events described in the video that can support the main idea
+       
+       C. Your overall response (e.g. your strong opinions).
+
+
+<span style="color:red">**\[NOTEs to the facilitator\]**</span>
+
+This activity forum page has been hidden, so please activate the forum
+page link for students when they need to do this activity in the class.
+
+1.  Show the video “Remember Africville” for about 35 minutes.
+
+2.  Students will need to take notes on the video based on the given
+    WH-questions individually.
+
+3.  After that, group 3~4 students per group.
+
+4.  Ask them to share their notes, and then identify THREE items below:
+
+    a.  The main topic of the video in ONE general word.
+
+    b.  Two important events described in the video that can support the
+        main topic.
+
+    c.  Your overall response (e.g. strong opinions).
+
+5.  They can directly post their written work to the Forum page.
+
+   <ins>*How to post their work to the Forum page?*</ins>
+
+   a.  Click “Add a new discussion topic”.
+
+   b.  Write down each group members’ name in the “Subject” section.
+
+   c.  Post their work to the “Message”
+
+   d.  Click “Post to forum”.
+
+<!-- end list -->
+
+6.  Encourage students to READ “Lesson 5. Writing Stage” to understand
+    how to write a thesis statement that consists of (A), (B), and (C).
+    The example thesis statements given in Lesson 5 is related to this
+    Lab Activity 1.5, so they can understand how to write a thesis
+    statement easily.
+
+7.  <span style="color:red">**Reading homework announcement**:</span>
+
+<!-- end list -->
+
+ a.  Inform that they need to read “M2 Reading 2- PM offers apology,
+     symbolic payments for Chinese head tax” for the next class.
+
+ b.  Inform that they need to start working on their M2 Worksheet based
+     on “Lesson 4. Thinking Stage” from today. In this stage, they don’t
+     have to worry about how to write a thesis statement. They will
+     practice it in the next class. Next class, there might be around
+     10-20 minute remaining time, so they have a chance to show you (a
+     facilitator) their M2 worksheet and write their own thesis in their
+     worksheet. If they follow this procedure, they can submit their
+     worksheet on time.
+
+**\[NOTE\]:**
+
+  - Please take attendance. This will be counted for a participation
+    mark.
+
+  - Please use the excel file that I have given you in Module 1 in order
+    to record each student’s contribution to the group work ranged from
+    5 to 0. You will need to send the file to the instructor by the end
+    of the semester.
+
+  - If the internet is out of service accidentally, you can use the
+    article (M2 Reading 1- Individual Activity 1.4) for this class
+    activity because the fundamental story of Africville is the same as
+    the one described in the video. They will need to submit their
+    hand-written work to you as a group, but you need to scan their work
+    and send it to the instructor.)
+    
+<br>
+### Lesson 5: Writing Stage
+
+**Lab Activity 1.6 \[Lesson 5- Writing Stage\]:** (Group work: 3~4
+students per group) *– Forum page hidden view for students*
+
+**\[Instructions\]:**
+
+1.  The reading, “M2 Reading 2- PM offers apology, symbolic payments for
+    Chinese head tax”, was homework for this Lab Activity 1.6.
+
+2.  Based on your notes on the M2 Reading 2, in groups, identify the
+    main topic (A) of this news article that significantly influences
+    your feelings and thoughts in ONE general word.
+
+3.  Select TWO important events or someone’s speech (= (B) supporting
+    details) that can support your feelings and thoughts/opinions.
+
+4.  Decide your overall response (C).
+
+5.  Based on the thesis pattern given in Lesson 5, write a thesis
+    statement that includes (A), (B), and (C).
+
+6.  Post your thesis statement to the forum page as a group at the end
+    of the class.
+
+<span style="color:red">**\[NOTEs to the facilitator\]**</span>
+
+This activity forum page has been hidden, so please activate the forum
+page link for students when they need to do this activity in the lab.
+
+1.  Check if students did the M2 Reading 2 homework or not. Then, give
+    students about 5-10 minutes to read the M2 Reading again.
+
+2.  This lab activity takes around 30-40 minutes including the initial
+    reading time (5~10 mins).
+
+3.  Group 3~4 students per group.
+
+4.  Ask them to share their notes, and then identify THREE items below:
+
+<!-- end list -->
+
+   A.  The main topic of the video in ONE general word.
+
+   B.  Two important events described in the M2 Reading that can support the main topic.
+     
+   C. Your overall response (e.g. strong opinions).
+
+<!-- end list -->
+
+5.  Help them to post their group thesis to the Forum page.
+
+  <ins>*How to post their work to the Forum page?*</ins>
+
+   a.  Click “Add a new discussion topic”.
+
+   b.  Write down each group members’ name in the “Subject” section.
+
+   c.  Post their work to the “Message”
+
+   d.  Click “Post to forum”.
+
+<!-- end list -->
+
+6. <span style="color:red">**Announcement for M2 Worksheet Submission**:</span> Inform that they
+    should submit their Module 2 Worksheet to the designated
+    M2-Worksheet dropbox on time. The LATE
+    submission is NOT allowed.
+
+**\[NOTE\]:**
+
+  - Please take attendance. This will be counted for a participation
+    mark.
+
+  - Please use the excel file that I have given you in Module 1 in order
+    to record each student’s contribution to the group work ranged from
+    5 to 0. You will need to send the file to the instructor by the end
+    of the semester.
+
+  - If the internet is out of service accidentally, print out “M2
+    Reading 2- PM offers apology, symbolic payments for Chinese head tax
+    Individual” for this class activity. They will need to submit their
+    hand-written thesis to you as a group, but you need to scan their
+    work and send it to the instructor by email on that day.
+
+**Lab Activity 1.7 \[Lesson 5- Writing Stage\]:** (Group work: 3~4
+students per group) *– Forum page hidden view for students*
+
+**\[Instructions\]:**
+
+1.  With your group members, <span style="color:red">**READ**</span> the reading “Hate at the Top”-
+    [Link](https://www.cbc.ca/history/EPISCONTENTSE1EP13CH4PA2LE.html)
+
+2.  Based on the thesis statement below, SELECT 3~5 important
+    historical facts mentioned in the article.
+
+      - WHO is involved?
+
+      - WHAT happened and why?
+
+      - WHEN and WHERE did it happen?
+
+      - HOW did the situation end?
+
+3.  To write ONE background paragraph, summarize/paraphrase the
+    historical facts in your own words with your partners. Don’t forget
+    to indicate proper citation initially.
+
+4.  Also, indicate a reference list after the background paragraph.
+
+5.  Post your group work to the forum page as a group at the end of the
+    class.
+
+<span style="color:red">**\[NOTEs to the facilitator\]**</span>
+
+This activity forum page has been hidden, so please activate the forum
+page link for students when they need to do this activity in the class.
+
+1.  Give students 10 minutes to read the article.
+
+    a.  Do not allow students to use Google translator or another kind
+        of a translator while reading.
+
+    b.  If possible, observe who has a reading challenge. If the reading
+        issue is serious, please let the instructor know about it for
+        her/his information.
+<br>
+2.  This class activity takes around 75 minutes including the initial
+    reading time (10 mins).
+
+3.  Group 3~4 students per group.
+
+4.  Encourage them to do ‘collaborate” writing the background paragraph.
+
+5.  Help them to post their group background to the Forum page.
+
+<ins>*How to post their work to the Forum page?*</ins>
+
+   a.  Click “Add a new discussion topic”.
+
+   b.  Write down each group members’ name in the “Subject” section.
+
+   c.  Post their work to the “Message”
+
+   d.  Click “Post to forum”.
+
+<!-- end list -->
+
+6.  <span style="color:red">**Announcement for NEXT CLASS (M2 In-class Writing)**:</span>
+
+<!-- end list -->
+
+   a.  They will have a full-lab time to write their background paragraph
+       as M2 In-class writing in the NEXT lab.
+
+   b.  They should be on time and bring their laptop and a laptop charger.
+
+   c.  They should revise their worksheet based on the instructor’s feedback
+       for the in-class writing in advance. During the in-class writing,
+       they are only allowed to check their worksheet and one source that
+       they chose for their background.
+
+   d.  A facilitator will make the M2 in-class writing template given on
+       Module 2 page in Moodle visible to students right before the
+       in-class writing starts.
+
+   e.  A facilitator will check if they’ve turned off the wifi or not
+       before the in-class writing starts. (This can be applied when students do this on-campus face to face). 
+
+**\[NOTE\]:**
+
+  - Please take attendance. This will be counted for a participation
+    mark.
+
+  - Please use the excel file that I have given you in Module 1 in order
+    to record each student’s contribution to the group work ranged from
+    5 to 0. You will need to send the file to the instructor by the end
+    of the semester.
+
+  - If the internet is out of service accidentally, print out M2
+    in-class writing template. They will need to submit their
+    hand-written background paragraph to you, but you need to scan their
+    templates and send them to the instructor by email on that day
+    promptly.
+
+  - The instructor will evaluate the in-class writings quickly, so
+    students will receive feedback in 1~2 days. Then, they have a
+    chance to revise their background in their final draft.
+
+### <span style="color:blue">Assessment</span>
+
+In Module 2, you participated in a number of individual activities and
+class activities. The three class activities are to be completed in
+class and submitted to the instructor via Forum pages.
+
+In addition to the class activities, there are four individual
+activities, but the individual activities 1.1, 1.3, and 1.4 are only
+graded. You will receive 5 points for the “completion” of each activity.
+Please check the details below.
+
+![](M2_facilitator_guide_updated_chart.png)
+
+### <span style="color:blue">M2 Worksheet: 2%</span>
+
+  - Read M2 Personal Response Assignment (Instructions) and choose ONE
+    topic.
+
+  - Use M2 Worksheet (Template).
+
+  - Refer to M2 Worksheet (example).
+
+  - Submit your M2 Worksheet to the M2 on-going dropbox.
+
+  - <span style="color:red">**Deadline**: Instructor will inform you (a facilitator) of the deadline at the beginning of Module 2.</span>
+
+  - Students will receive feedback from their instructor within 1\~2
+    days.
+
+### <span style="color:blue">M2 In-class Writing: 5%</span>
+
+  - When: The LAST class of the 5<sup>th</sup> week.
+
+  - Do NOT be late or absent on that day.
+
+      - Those who came late for the class will not be given any extra
+        time.
+
+      - Absentees will receive a “zero” grade automatically.
+
+  - Students will have a full-class time (75 minutes) to write their
+    background paragraph as M2 In-class writing.
+
+  - They will use an M2 in-class writing template provided in Moodle.
+
+      a. They should be on time and bring their laptop and a laptop charger.
+
+      b. During the in-class writing, they are only allowed to check their
+    worksheet and one source that they chose for their background
+    paragraph.
+
+      c. They should turn off the wifi before the in-class writing starts.
+
+      d. They are NOT allowed to use any translators during the in-class
+    writing. Using a dictionary is fine.
+
+      e. At the end of the class, ALL the students turn on the wifi, and then
+    submit their file to M2 on-going dropbox.
+
+<span style="color:red">**\[NOTEs to the facilitator\]**</span>
+
+  - Make the M2 in-class writing template visible when everyone is ready
+    to write their background.
+
+  - Doublecheck if all the students’ wifi is turned off.
+
+  - Doublecheck if they are referring to their M2 worksheet and one
+    additional source for their background ONLY.
+
+  - Doublecheck if they submitted a correct file before they leave.
+
+  - If many of the students need more time, give them 5 minutes more.
+
+### <span style="color:blue">M2 Personal Response Essay: 8%</span>
+
+  - Doublecheck your essay follows the M2 Personal Response Assignment
+    (Instructions) clearly.
+
+  - Revise your background paragraph based on your instructor’s feedback
+    on your M2 in-class writing. Do not include the same mistakes in
+    your final draft. Your instructor will check if you have read the
+    instructor’s feedback or not.
+
+  - Before you submit your M2 Final essay file, review your essay based
+    on “M2 Checklist”. That is the most important step to get a good
+    grade.
+
+  - Submit your M2 Final essay file to the M2 Final Essay Dropbox
+    (Turnitin) on time.
+
+  - <span style="color:red">**Deadline**: Instructor will inform you (a facilitator) of the deadline at the beginning of Module 2.</span>
+
+### <span style="color:blue">Grading Criteria:</span>
+
+**M2- Checklist (Personal Response Essay)**
+
+- Refer to the attached [Personal Response Checklist](M2_Checklist.pdf).
+                                                                                                  
