@@ -11,7 +11,11 @@
 - [Anthropology 101](anth101.md)
 - [English 101](engl101.md)  
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - [English 102](engl102.md) 
+=======
+- [Mcom 281](mcom281.md) 
+>>>>>>> Stashed changes
 =======
 - [Mcom 281](mcom281.md) 
 >>>>>>> Stashed changes
