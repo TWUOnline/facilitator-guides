@@ -1,4 +1,4 @@
-title: 'Course Overview and Syllabus'
+'Course Overview and Syllabus'
 ---
 
 ### Course Overview
@@ -28,7 +28,7 @@ Upon completion of this course, students will be able to demonstrate:
 - Investigating common cultural, literary, and religious symbols/allusions (Knowledge)
 - Becoming familiar with major religious characters, stories, and events which have become allusions and cultural underpinnings. (Knowledge)
 
-<br>
+
 ### Course Evaluation
 
 | Assignments          | % of Grade    | Connection to Learning Outcomes |

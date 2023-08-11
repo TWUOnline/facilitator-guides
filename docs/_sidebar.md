@@ -10,7 +10,6 @@
 ## Guides
 - [Anthropology 101](anth101.md)
 - [English 101](engl101.md)  
-- [English 102](engl102.md) 
 - [Psychology 105](psyc105.md)  
 - [Psychology 106](psyc106.md) 
 - [Sociology 101](soci101.md) 
