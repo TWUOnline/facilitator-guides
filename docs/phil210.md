@@ -180,7 +180,7 @@ How would a psychological egoist (Room 1), an ethical egoist (Room 2), and an ad
 3. Start working on your next EC Assignment.
 
 
-## Unit 4: How to Determine What is Moral?**
+## Unit 4: How to Determine What is Moral?
 
 **Check-in and Icebreaker:**
 
