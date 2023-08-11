@@ -13,9 +13,12 @@
 ## Interactions between Instructor and Facilitator: Email communication / Weekly conversations via phone calls or Zoom 
 ## Textbooks (all could be found online) and Course Materials: 
 •	Brown, N., de González, L. T., McIlwraith, T. F., & American Anthropological Association. (2018). Perspectives: An Open Invitation to Cultural Anthropology. 
+
 •	Wesch, M. (2018). The Art of Being Human: A Textbook for Cultural Anthropology. New Prairie Press. 
+
 •	Materials posted on Moodle site under each unit as instructed. 
 ## Changes/modifications/extra information made to the Units: 
+
 ## Unit 1 – Culture 
 1.	Introductions of the course and the instructor 
 -	Dr. Anaya drops in for the first class to meet with everyone, talks about the course and herself, then she would drop out.   
@@ -28,6 +31,7 @@
 -	Divide students in different learning pods and 4-5 students in a Pod.
 -	Nacirema ("American" spelled backward) is a term used in anthropology and sociology in relation to aspects of the behavior and society of citizens of the United States of America.) 
 5.	Close the session with Q&A and remind students to prepare the Unit 2 Activity-Ethnography Challenge 
+
 ## Unit 2 – Fieldwork (Help students increase their observation skills and learn to be descriptive about all they see and experience.)
 1.	Students to-do: Unit Test 1 (covers Units 1 and 2)
 2.	Group discussions on ONE of the following questions about culture change: 
@@ -41,6 +45,7 @@
 -	“Be kind and compassionate to one another, ..." – Ephesians 4:32
 -	“He has told you, ... what is good; and what does the LORD require of you but to do justice, and to love kindness ...” – Micah 6:8
 -	“ ... you shall love the Lord your God with all your heart, and...You shall love your neighbor as yourself.' – Mark 12: 30-31
+
 ## Unit 3 – Livelihoods 
 1.	Watch & Reflect: Watch the videos Attenborough, Kalahari, and Hadza (Unit 3-Topic 1) together, then invite students to use subsistence terminology in talking about the cultural group. 
 -	Attenborough https://www.youtube.com/watch?v=826HMLoiE_o 
@@ -50,6 +55,7 @@
 2.	Lead students to discover Ten Thousand Villages (https://www.tenthousandvillages.com/fair-trade) and the process and practice of Fair trade (Topic 2-Reading #2) and the practice of Freegan (Topic 2-Reading #3). 
 3.	Introduce UnThing Experiment (reflection will be submitted at the end of Unit 5), direct students to choose challenges, then invite students to start working on it. (Facilitator to consider take the challenge along with students.) 
 -	UnThing Experiment info https://anth101.com/challenge5/ 
+
 ## Unit 4 – Family 
 1.	Students to-submit: Kinship and Descent Mapping 
 2.	Watch the video Aboriginal Kinship Systems https://www.youtube.com/watch?v=SCZWjoDg2Nw and introduce Kinship and Descent Mapping (students will submit later on) info https://www.youtube.com/watch?v=YOi2c2d3_Lk 
@@ -62,6 +68,7 @@ Dowry https://www.youtube.com/watch?v=e85mnwHuaoM
 -	Videos focus on age (child brides), many wives, multiple husbands, and dowry. Facilitator to pick depending on time arrangement or students’ interests. 
 -	Facilitator to pay attention to leverage the conversations according to students’ outputs. E.g., The diversity of students brings various real examples of marriage forms into the topic, such as many wives and husbands. Since students are not mature enough as first-year college students, make sure that students not mocking each other and maintain a balanced learning environment.  
 4.	Remind students to stay strong in their commitments to the UnThing Experiment Challenge.
+
 ## Unit 5 – Identity 
 1.	Students to-do: Unit Test 2 (covers Units 3 to 5) 
 Students to-submit: UnThing Experiment Challenge Reflection 
@@ -72,6 +79,7 @@ Students to-think: The topics for their Culture Trait Assignments in Unit 10.
 3.	Watch documentary on the Amish and the Bountiful Community (Unit 5-Topic 2) and reflect depending on time arrangement or students’ interests. 
 4.	Conclude the UnThing Experiment Challenge with sharing by students. Invite students to express their feelings and experiences by doing this activity. 
 5.	Explain Culture Trait Assignment in Unit 10. Direct students to choose the topic and start working on it. Instructions are under Unit 10. 
+
 ## Unit 6 – Language 
 1.	Students to-decide: The topics for their Culture Trait Assignments in Unit 10. Facilitator to ensure students not to choose the duplicated topics with each other. 
 2.	Have the students identify the languages they speak on the Tree of Languages (links to Unit 6-Topic 3 Reading #2). 
@@ -82,6 +90,7 @@ Students to-think: The topics for their Culture Trait Assignments in Unit 10.
 -	Can whistling be regarded as a language? (Be sure to provide reasons to support your position)
 -	Can you use the same rationale for arguing that sign language is (or is not) a language? 
 -	Students to share individual insights based on their group discussions. 
+
 ## Unit 7 – Cultural Expression 
 1.	Students to-do: Unit Test 3 (covers Units 6 and 7) 
 2.	Direct students to explore through a website of an art gallery in Antigua, Guatemala. https://www.laantiguagaleria.com/store/ 
@@ -99,6 +108,7 @@ Students to-think: The topics for their Culture Trait Assignments in Unit 10.
 -	Help students connect their listening and viewing to the country and cultures. One of the goals of the course is to give GLOBAL representation to the diversity of behaviors found among people groups. 
 5.	Remind students to prepare Rites of Passage. Ask students to come up with illustrations of rites of passage that they and/or a family member has gone through and be ready to share in next class. 
 -	Examples facilitator could use to direct: The tossing of a grad cap at graduation; The father-daughter first dance at a wedding; The gender reveal party during pregnancy etc. 
+
 ## Unit 8 – Religion & Rites
 1.	Description and comparison of the Maori and Aborigines (Graded) – Invite students to view the web-based videos about the Aborigine of Australia and the Maori of New Zealand: 
 -	Walking on country with spirits, Wet tropics, Australia https://www.youtube.com/watch?v=NrgYGMv5dYw 
@@ -106,6 +116,7 @@ Students to-think: The topics for their Culture Trait Assignments in Unit 10.
 -	The Right to Be Me https://www.youtube.com/watch?v=79II_eXKoWo 
 -	Direct students to discuss these worldview videos and help students realize that not all things pertaining to beliefs are religious. For instance, there are ideological beliefs and political beliefs. There are also faith beliefs and practices that inform how we should think and see the world and all that is in it; however, they do not dictate behaviors and how life should be lived. 
 2.	Invite students to present their research topic on Rites of Passage by using the illustrations they have been prepared. Provide opportunity for classmates to ask 2-3 questions (2-3 minutes). If there are no questions, that is okay. Facilitator does not want to over-extend the Q&A period as each student’s knowledge on their topic is limited, as this was not a major research project. 
+
 ## Unit 9 – Authority 
 1.	Students to-do: Unit Test 4 (covers Units 8 and 9) 
 2.	Watch and Reflect: 
@@ -120,6 +131,7 @@ Students to-think: The topics for their Culture Trait Assignments in Unit 10.
 -	E.g.: Andrew + FACT: cultural customs like Diwali are celebrated outside of the "home country" by the Diaspora, who maintain their culture by continuing to keep traditions and celebrate annual events like the Festival of Lights. 
 -	Each student will have one post per classmate, and a total of 13 statements. 
 -	Let students be aware that next class will take longer than usual since it will be formal presentations followed by Q&A. 
+
 ## Unit 10 – Engaging the World 
 1.	Students to-do: Culture Trait assignment Presentations
 2.	Students to-submit: UnEssay Assignment
@@ -127,6 +139,6 @@ Students to-think: The topics for their Culture Trait Assignments in Unit 10.
 4.	Take a group picture. 
 5.	Encourage students that the adventure of Anthropology continues! 
 
-## Course Personal Reflection:
 
+## Course Personal Reflection:
 In ANTH 101, students are expected to use course terminology, reflect an anthropological focus, and think as an anthropologist. The role of facilitator in ANTH 101 is expected to walk with instructor closely, foster students’ interests of the subject, help students to understand then achieve success through various learning activities, build a sense of community, and provide a touch of spiritual development for students. ANTH 101 is a fascinating course that contains various learning activities, and creativity could be a focus among the learning outputs for facilitator. To better assess learning results of students, facilitator may be required to provide graded observations of various learning activities from Learning Lab to the instructor. 
