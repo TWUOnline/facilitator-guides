@@ -1,14 +1,14 @@
-**Session 1	PHIL 100: Course Introduction**
+# Session 1	PHIL 100: Course Introduction
 Before the Facilitation Session	This facilitation session is about 90-minutes long.
 1.	Welcome and introduction.
 2.	Ask learners to write where they are from and where they are connecting from on the chat.
 3.	Provide a brief overview of the session outline, including the lesson’s outcomes and learning activities.
-**Ice Breaker**
+## Ice Breaker
 Activity Description
 Truth and Lie (Campbell, 2016):
 Divide the participants into groups of four people. Instruct them to write down two truths and one lie about themselves. The lie should be believable to some extent. Then, one at a time, they will read the truths and lie in random order. When they are finished, the team should discuss what they think are truths and which are lies (5 min).
 
-**Course Introduction**	
+## Course Introduction
 1.	Show students how to access the course in Moodle.
 2.	Syllabus: 
 o	Course Schedule 
@@ -16,11 +16,11 @@ o	Assignments’ rubrics and due dates
 o	Assignment submission
 o	NO READING WEEK
 
-**Unit 1: Session 1	Topic 1: Wisdom and Action**
+## Unit 1: Session 1	Topic 1: Wisdom and Action
 
 Check-in and Icebreaker:	In your country, what is the most popular breakfast food? (5 min)
 
-**Unit 1: What is wisdom?**
+## Unit 1: What is wisdom?
 According to Nozick, wisdom helps people to live life well, cope with and respond to the many challenges in life, and, if possible, avoid some of those challenges. So, to live wisely, people need to affirm the right beliefs and practice the right actions. How do we know which beliefs and actions are appropriate for living well? In other words, what are the right beliefs?  What are the right actions?  (15 min + 5 min presentations)
 
 Activity: 1 
