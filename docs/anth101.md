@@ -3,14 +3,22 @@
 
 
 
-## Course Title: ANTH 101 GX - Introduction Cultural Anthropology
-## Course Instructor: Dr. Ruth Anaya (SP 2022)
-## Course delivery model: Asynchronous / Virtual 
-## Course geographical location: Global 
-## Student Mastering of the English language: Advanced 
-## Instructor Presence during Learning Lab: Present occasionally 
-## Learning Lab Length: 1.5-2 hours regularly / Culture Trait Presentations in Unit 10 takes longer which depends on how many students we have 
-## Interactions between Instructor and Facilitator: Email communication / Weekly conversations via phone calls or Zoom 
+## Course Title: 
+ANTH 101 GX - Introduction Cultural Anthropology
+## Course Instructor: 
+Dr. Ruth Anaya (SP 2022) / Eileen McWilliams, MLE (SP 2023)
+## Course delivery model: 
+Asynchronous / Virtual 
+## Course geographical location: 
+Global 
+## Student Mastering of the English language: 
+Advanced 
+## Instructor Presence during Learning Lab: 
+Present occasionally 
+## Learning Lab Length: 
+1.5-2 hours regularly / Culture Trait Presentations in Unit 10 takes longer which depends on how many students we have 
+## Interactions between Instructor and Facilitator: 
+Email communication / Weekly conversations via phone calls or Zoom 
 ## Textbooks (all could be found online) and Course Materials: 
 •	Brown, N., de González, L. T., McIlwraith, T. F., & American Anthropological Association. (2018). Perspectives: An Open Invitation to Cultural Anthropology. 
 
@@ -21,7 +29,7 @@
 
 ## Unit 1 – Culture 
 1.	Introductions of the course and the instructor 
--	Dr. Anaya drops in for the first class to meet with everyone, talks about the course and herself, then she would drop out.   
+-	Dr Aanaya and Prof. Eileen drop in for the first class to meet with everyone, talks about the course and herself, then she would drop out.   
 2.	Facilitator introduces the Learning Lab and facilitation model. 
 -	To practice the facilitation model as well as let students to know each other, conducting a small activity could be a good idea to start. Gimkit/Kahoot to touch a few general Anthropology terminologies or small group discussions to break the ice are good considerations. 
 3.	Locate textbooks, navigate Moodle site, and outline the course (go through the requirements and assessments, introduce writing center and learning coach, if necessary, as per the instructor). 
