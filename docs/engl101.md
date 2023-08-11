@@ -27,7 +27,6 @@ encounter scholarly **complexity**.
 8. Through carrying out and communicating sound research, organizing arguments in a research paper, writing research notes, drafting and revising research paragraphs, students will develop **confidence, self-monitoring, and metacognition.**
 
 
-<br>
 ### Course Evaluation
 
 | Assignments          | % of Grade    | Connection to Learning Outcomes |
