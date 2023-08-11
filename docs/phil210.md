@@ -376,7 +376,7 @@ In your presentations, start by explaining the philosophical view, state the rea
 1.Unit 9: The Ethics of Torture and Terrorism Partner Presentation 
 
 
-## Unit 9	Unit 9: The Ethics of Torture and Terrorism
+## Unit 9: The Ethics of Torture and Terrorism
 
 **Check-in and Icebreaker:**
 
