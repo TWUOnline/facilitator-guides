@@ -24,12 +24,12 @@ Truth and Lie (Campbell, 2016): Arraange the participants into groups of four pe
 
 1. Show students how to access the course in Moodle.
 2.	Syllabus: 
-o	Course Schedule 
-o	Assignments’ rubrics and due dates
-o	Assignment submission
+- Course Schedule 
+- Assignments’ rubrics and due dates
+- Assignment submission
 3.	Group Work Sign-up Sheets
-o	Ethics Committee
-o	Partner Project Presentation
+- Ethics Committee
+- Partner Project Presentation
 4.	Grammarly
 5.	NO READING WEEK
 
