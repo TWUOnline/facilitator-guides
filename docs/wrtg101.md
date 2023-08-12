@@ -1,5 +1,4 @@
-'Course Overview and Syllabus'
----
+
 
 ### Course Overview
 
@@ -59,7 +58,7 @@ Upon completion of this course, students will be able to demonstrate:
 ### Course Texts:
 All course materials will be provided in Moodle.  
 
-<br>
+
 ### Course Schedule
 
 ![](Course_Schedule_updated.png)
@@ -84,9 +83,7 @@ Before each class, students are encouraged to view the entire unit that will be 
 
 ### Lab Assignments & Learning Activities
 Note that many Labs will be devoted to certain assignments and activities.  On the next pages are details for the lessons and assignments. Please refer to the course in Moodle for specifics.
----
-title: 'Module 1 Lesson Notes'
----
+
 
 ### Module 1: Introduction to Academic Writing
 
@@ -139,10 +136,9 @@ title: 'Module 1 Lesson Notes'
         so they are not graded. However, lab activities are important
         activities that you must complete in order to pass this course. Each lab activity is equivalent to 5 points.
 
-<br>
 ### Lesson 1: Academic Writing Basics
 
-<br>
+
 **Lab Activity 1.1 \[APA Template\]:** (Individual work)
 
 **Create an individual APA template (Microsoft document only)** based on
@@ -185,7 +181,7 @@ of the class time will not be accepted.
 6.  Please take attendance. This will be counted for a participation
     mark.
 
-<br>
+
 ### Lesson 3: APA Documentation
 
 <br>
@@ -244,7 +240,7 @@ d.  Click “Post to forum”.
     work to you, but you need to scan their work and send it to the
     instructor.)
 
-<br>
+
 #### Lab Activity 1.3 \[References\]: (Group work: 5 students per group)
 
 *– Forum page Hidden view for students*
@@ -357,7 +353,7 @@ check the details below.
 
 ![](M1_lesson4chart_update.png)
 
-<br>
+
 ### <span style="color:blue">APA Quiz: 3%</span>
 
 After you have completed Module 1, you will take an APA quiz on the day of Lab 5.
@@ -688,7 +684,7 @@ page link for students when they need to do this activity in the class.
     hand-written work to you as a group, but you need to scan their work
     and send it to the instructor.)
     
-<br>
+
 ### Lesson 5: Writing Stage
 
 **Lab Activity 1.6 \[Lesson 5- Writing Stage\]:** (Group work: 3~4
@@ -1016,7 +1012,7 @@ title: 'Module 3 Lesson Notes'
             their integration paper individually.
     <br> 
     5.  M3 In-Class Writing template: (Make this hidden file visible to
-        students at the beginning of Lab 5 before they turn off the wifi. If students do their in-class writing online via Zoom, please ignore the comments on “the wifi” in           this facilitator guide. The instruction on the wifi can be applied ONLY when students write their in-class writing in their lab under a facilitator’s supervision face         to face.)
+        students at the beginning of Lab 5 before they turn off the wifi. If students do their in-class writing online via Zoom, please ignore the comments on “the wifi” in this facilitator guide. The instruction on the wifi can be applied ONLY when students write their in-class writing in their lab under a facilitator’s supervision face to face.)
 
   - Introduce the instructions of the Integration Essay Assignment and
     show where the files of M3 assignment instructions and worksheet.
