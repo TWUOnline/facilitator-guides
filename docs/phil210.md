@@ -24,12 +24,12 @@ Truth and Lie (Campbell, 2016): Arraange the participants into groups of four pe
 
 1. Show students how to access the course in Moodle.
 2.	Syllabus: 
-o	Course Schedule 
-o	Assignments’ rubrics and due dates
-o	Assignment submission
+- Course Schedule 
+- Assignments’ rubrics and due dates
+- Assignment submission
 3.	Group Work Sign-up Sheets
-o	Ethics Committee
-o	Partner Project Presentation
+- Ethics Committee
+- Partner Project Presentation
 4.	Grammarly
 5.	NO READING WEEK
 
@@ -180,7 +180,7 @@ How would a psychological egoist (Room 1), an ethical egoist (Room 2), and an ad
 3. Start working on your next EC Assignment.
 
 
-## Unit 4: How to Determine What is Moral?**
+## Unit 4: How to Determine What is Moral?
 
 **Check-in and Icebreaker:**
 
@@ -210,7 +210,7 @@ Immanuel Kant stated that the morality of any action does not depend on its cons
 
 Watch a video: https://www.youtube.com/watch?v=YLInfO_iLNg&t=42s (15 min)
 
-**The original position:**
+**The Original Position:**
 
  John Rawls to create a just society the rules that govern that society must be created by a committee of people who do not know their position in that society. They do not know if they will be rich or poor, black, white, gay, or disabled. While they are trying to design a just society all that knowledge about themselves would be hidden in what Rawls called a “veil of ignorance”. Because if they do, they will act in their self-interest and create rules that benefit them. So, not knowing if they would be the president of a large company or a street cleaner would make them create a society that benefits all; otherwise, they might be the street cleaner.
 
