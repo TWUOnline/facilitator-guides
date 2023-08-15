@@ -32,6 +32,7 @@ Email communication / Weekly conversations in Lab / Zoom meetings occasionally
 - Now, If I do or say something that is culturally offensive or inappropriate, please tell me right away!  Or if I, have you do some group learning activity that really is boring or does not go well or maybe it doesn’t make sense. So please let me know because I want this class to be a wonderful learning experience for all of us!  Don’t you?  Of course, we all do!   
 ### Unit 2: Case study: The Sacred “Rac”
 http://www.drabruzzi.com/sacred_rac.html 
+
 Trick: “Rac” spelled opposite is “Car” 
 ### Unit 2: Case study: Wild Child Genie
 1. Language as a social construct. 
