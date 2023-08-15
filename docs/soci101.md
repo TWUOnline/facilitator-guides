@@ -38,6 +38,7 @@ Trick: “Rac” spelled opposite is “Car”
 2. The primary function of language is communication rather than representation, so language is essentially a social phenomenon.
 https://www.teachertube.com/videos/secrets-of-the-wild-child-1-223041 
 https://www.verywellmind.com/genie-the-story-of-the-wild-child-2795241 
+
 Questions to discuss: 
 - What sorts of help should communities provide to individuals and families in which one member is acting in a way that is unhealthy for others? 
 - Where is the line between individual freedom and protecting the "larger society," which, in some instances, may just be the family?
