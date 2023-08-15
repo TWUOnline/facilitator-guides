@@ -22,7 +22,6 @@ Email communication / Weekly conversations in Lab / Zoom meetings occasionally
 2.	Recommended: The Sociology Students Writing Manual 6ed, (Johnson, Rettig, Scott & Garrison, 2010).
 
 # Learning Lab Activities Guide: 
-
 # Learning Lab Week 1 - Unit 1 & 2 – Navigating course & Intro: socio imagination & Culture 
 ## Unit 1: Navigating Course Syllabus, Textbooks, Journals, Participation, Moodle, Quizzes, etc. 
 ## Unit 1: Ice breaker-Develop definition of Sociological Imagination as class 
