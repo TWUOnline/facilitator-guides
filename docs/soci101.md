@@ -61,6 +61,7 @@ The theoretical concept of self-socialization suggests that an individual is abl
 - Break-out room 2 pre-setting: Female early childhood teacher ($3,800) + Male currently not eligible to work because of health conditions ($0)
 - Break-out room 3 pre-setting: Male dentist ($8,300) + Female housewife ($0)
 - Break-out room 4 pre-setting: Male legal parallel assistant ($3,400) + Female health care worker ($3,600) 
+
 ### Unit 4: Gender Inequality and Education 
 1.	“Being Born as a Girl in China.” (2.5 minutes):  https://www.youtube.com/watch?v=tAaArElF__8 
 2. “Gender Inequality in India.” (2.5 minutes):  https://www.youtube.com/watch?v=ehtuxMYKuZo 
@@ -80,7 +81,7 @@ People were paralyzed with fear those first days, followed by a backlash of hate
 *** Remind and explain students to do Quizzes 6-8, 2nd Reflective Journal, and plan things ahead. ***
 # Learning Lab Week 4 - Unit 4: Global Inequality & Unit 5: Family Institution
 ### Unit 5: Family Institution
-- Group discussion: Smaller Families … groups of 3 or 4, discuss: 
+Group discussion: Smaller Families … groups of 3 or 4, discuss: 
 1. Why have families gotten smaller?
 2. Compare/contrast Canada and China (or India or other countries) to talk what are some similar and different reasons for family size decreasing in these countries?  
 *** Remind and explain students to do Quizzes 9 & 10, 3rd Reflective Journal, Social Issue Paper-Outline, and Unit Test # 2 (Chapter 6-10), which Dr. Martin would drop by to give more details about. ***
@@ -94,6 +95,7 @@ People were paralyzed with fear those first days, followed by a backlash of hate
 - Research in Canada has shown that students from families with a household higher income are more likely to attend college or university than students from poorer families.
 - Based on what you’ve learned so far, do you think difference would disappear if post-secondary education were made cost-free to all interested students? 
 - From your personal sociological perspective, how is education  similar & different in Canada versus China?
+
 ### Unit 5: Work Institution
 
 George Ritzer & ‘The McDonaldization of Work’ [From Oxford Textbook (p. 300)]:
@@ -108,17 +110,18 @@ ii.	Calculated – workers have quotas or requirements for things done
 iii.	Predictable – many work tasks are routine, repetitive & easy to learn
 iv.	Control – standardized processes so that workers can easily be replaced
 - Group discussion: The Industrial Revolution and Technological advances dramatically changed people’s lives. After 8 weeks of Sociology_101, now do some Sociological Imagination! (Quan-Hasse and Tepperman, 2018, pp. 294, 296). What do you think the impact of the Industrial Revolution was on the working lives of those who lived through them? 
+
 ### Unit 5: Religion Institution-Group/Brek-out rooms interactive teaching
-1. Break-out room 1-Functionalism: Emile Durkheim’s totemism = symbols used in religious rituals unite certain members of society with regard to their meaning and beliefs. 
+1. Break-out room 1 to cover Functionalism: Emile Durkheim’s totemism = symbols used in religious rituals unite certain members of society with regard to their meaning and beliefs. 
 - What are some religious symbols and their meaning? 
 - Do you think people working in secular society should be allowed (or not) to wear religious symbols or dress?
-2. Break-out room2-Conflict Theory: Karl Marx is often quoted saying: “Religion is the opium of the people.”  The fuller quotation: "Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people.” 
+2. Break-out room2 to cover Conflict Theory: Karl Marx is often quoted saying: “Religion is the opium of the people.”  The fuller quotation: "Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people.” 
 - What do you think Marx is saying about religion? How is religion used at times to control people?
 - When or where has religion greatly benefitted people?
-3. Break-out room 3-Symbolic Interactionism: These theorists view religions as filling people’s need for meaning and provides a way to understand and cope with life.
+3. Break-out room 3 to cover Symbolic Interactionism: These theorists view religions as filling people’s need for meaning and provides a way to understand and cope with life.
 - How does religion bring meaning to some people? 
 - Who are religious leaders of today or in history that have been good (righteous) role models?  Explain.
-4. Break-out room 4-Feminist Theory: Many in feminism make the charge that most religions have oppressed or discriminated against women, excluding them in religious leadership.
+4. Break-out room 4 to cover Feminist Theory: Many in feminism make the charge that most religions have oppressed or discriminated against women, excluding them in religious leadership.
 - How do you feel about women pastors, priests, mullahs, gurus, monks or rabbis? 
 - Why do you think in most religions, the number of practicing women far outnumber practicing men?
 *** Remind and explain students to do Quizzes 11-13, and plan things ahead. ***
@@ -132,6 +135,7 @@ https://www.youtube.com/watch?v=VsZQMaN5pYc
 - What would you say to a person claiming media should be considered amoral & therefore have very little regulation?
 - How is all the media attention focused on the COVID-19 virus pandemic saving lives but also generating terror?
 - How has the use of media devices and technology become both a blessing and a curse (positives & negatives)?
+
 ### Unit 6: Populations and Environment
 1.	How Coronavirus Quarantines Lead to A Drop In Air Pollution
 https://www.youtube.com/watch?v=bhctp3RQAkA 
@@ -145,11 +149,13 @@ https://www.worldometers.info/world-population/
 5.	Questions for mini research as group: 
 - Where is world population growth greatest and what are the consequences of population growth?
 - What is the relationship between increased material wealth and environmental pollution?
+
 ### Unit 7: Social Movements and Collective Action
 1.	Have you been influenced to do something? Share your personal experience with your peers. Take a look at the series of images included within Activity 7.1 (under Unit 7-Topic 1 on Moodle) and list at least five different examples of collective behaviors.
 2.	Refugee Life change Simulation: https://college.cengage.com/sociology/sociology_shared/2019_assessments/html_sim/explore_war_html/ 
 3.	To distinguish the types of social movements: Match practice  
 *** Remind and explain students to do Quizzes 14-16, 4th and 5th Reflective Journals, Social Issue Paper-final version, and Final Unit Test (Chapter 11-16), which Dr. Martin would drop by to give more details about. ***
+
 
 Gimkit in-class mini quizzes practice login page: https://www.gimkit.com/login 
 
