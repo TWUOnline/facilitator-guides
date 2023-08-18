@@ -29,7 +29,7 @@ Email communication / Weekly conversations via phone calls or Zoom
 
 ## Unit 1 – Culture 
 1.	Introductions of the course and the instructor 
--	Dr Aanaya and Prof. Eileen drop in for the first class to meet with everyone, talks about the course and herself, then she would drop out.   
+-	Dr Aanaya or Prof. Eileen would drop in for the first class to meet with everyone, and talk about the course and themselves.  
 2.	Facilitator introduces the Learning Lab and facilitation model. 
 -	To practice the facilitation model as well as let students to know each other, conducting a small activity could be a good idea to start. Gimkit/Kahoot to touch a few general Anthropology terminologies or small group discussions to break the ice are good considerations. 
 3.	Locate textbooks, navigate Moodle site, and outline the course (go through the requirements and assessments, introduce writing center and learning coach, if necessary, as per the instructor). 
