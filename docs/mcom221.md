@@ -17,19 +17,19 @@ After successfully completing the course, you will be able to:
 
 1. Execute  high quality still and moving visual compositions
 
-1. Become conversant with  principles and practice of “classical” filmmaking techniques.
+2. Become conversant with  principles and practice of “classical” filmmaking techniques.
 
-1. Practice the steps and processes uses to create effective short film projects.
+3. Practice the steps and processes uses to create effective short film projects.
 
-1. Create short films that exhibit your understanding of the key aesthetic techniques, and practices needed for effective filmmaking.
+4. Create short films that exhibit your understanding of the key aesthetic techniques, and practices needed for effective filmmaking.
 
-1. Gain confidence in your ability to create entertaining and insight film projects.
+5. Gain confidence in your ability to create entertaining and insight film projects.
 
-1. Develop leadership potential by engaging in solo and group collaborative projects.
+6. Develop leadership potential by engaging in solo and group collaborative projects.
 
-1. Increase skills in critical and creative thinking by analyzing and evaluating films from a filmmaker’s perspective.
+7. Increase skills in critical and creative thinking by analyzing and evaluating films from a filmmaker’s perspective.
 
-1. Focus on transferable life-skills to prepare you for the marketplace.
+8. Focus on transferable life-skills to prepare you for the marketplace.
 
 
 
@@ -42,10 +42,10 @@ exact date with your Facilitator).*
 
 | **Assignment**     | **Points** | **Due**        |
 | ------------------ | ---------- | -------------- |
-| Assignment 1: In-Camera Exercise | 10 points  | End of Unit 6  |
-| Assignment 2: Montage Project    | 20 points  | End of Unit 7  |
-| Assignment 3: Final Film Project | 40 points  | End of Unit 9 |
-| Final Exam: Self-Assessment / Course Journal     | 30 points  | End of Unit 10 |
+| Assignment 1: In-Camera Exercise | 0 points  | End of Unit 6  |
+| Assignment 2: Montage Project    | 30 points  | End of Unit 7  |
+| Assignment 3: Final Film Project | 30 points  | End of Unit 8 |
+| Course Journal     | 40 points  | End of Unit 9 |
 | TOTAL              | 100 points |                |
 
 
@@ -97,6 +97,7 @@ exact date with your Facilitator).*
 
   - Remind students to not be too hard on themselves. They may be just beginning and it takes a long time to master the art and craft of public speaking.
 
+<!--
 #### Celebration Speech Presentations
 
   - **For the Unit 10 celebration session – make it a party\! Ask students to bring food, non-alcoholic drinks, invite family and friends.**
@@ -106,6 +107,7 @@ exact date with your Facilitator).*
   - If there is time and you feel comfortable doing so, feel free to give an encouraging comment about each student.
 
   - The Facilitator will need to print the awards for Best Short Film, Best Montage, Most Improved Film, etc. on a thick paper stock (good quality). See **template** provided. This should be signed by the Facilitator, and use a handwriting font for the instructor’s signature (e.g. Ned Vankevich, Ph.D)
+-->
 
 # Lesson Notes & Activities
 
@@ -169,13 +171,15 @@ The following are specific notes from the instructor about the units:
 
   - Have the students share some of their most challenging issues or “Murphy’s Law” moments and how they did or did not overcome them during the making of their final project.
 
+<!--
 ### Unit 10
 
   - Have the students give words of affirmation andencouragement to their peers as they head out into the world to apply their skills and insights.
+-->
 
 # Course Resources
 
-  - The course textbook is: Vankevich, N.. (2019). *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.* Epub. . The instructor will provide students an e-copy of the text.
+  - The course textbook is: Vankevich, N.. (2019). *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.* Epub. The instructor will provide students an e-copy of the text.
 
   - Module links provided in Moodle and Course Text.
 
