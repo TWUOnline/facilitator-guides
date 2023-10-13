@@ -53,7 +53,7 @@ Note that Facilitator may change the schedule, depending on the campus term date
 | **Unit 3 – Ice Breaker Speech** | Ice Breaker Speech (non-graded) Reflective Journal | Course Text Chapters 3 and 19 Section 1. |
 | **Unit 4: The Power of Language and Audience-Centered Public Speaking** | Reflective Journal (Submit Units 3 and 4 entry) | Course Text Chapters 6, 7, and 15. |
 | **Unit 5: Researching, Structuring, and Outlining a Speech** | Reflective Journal | Course Text Chapters 8, 9, 10, 11, 12, 13, 14 |
-| **Unit 6: Presentation Aids and Speech Delivery** | Reflective Journal Mid-term Exam (15%) | Course text Chapters 20, 17 and 18. |
+| **Unit 6: Presentation Aids and Speech Delivery** | Reflective Journal  | Course text Chapters 20, 17 and 18. |
 
 | **Unit 7: Informative Speeches** | Demonstration Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 10, 12, 20, 21, 22. |
 | **Unit 8: Persuasive Speeches** | Persuasive Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 23, 24. |
@@ -205,7 +205,7 @@ Note that students will do some learning activities online / at home, and other 
 | **Unit 3 – Ice Breaker Speech** (1 week) | Ice Breaker Speech (non-graded) Reflective Journal | Course Text Chapters 3 and 19 Section 1. |
 | **Unit 4: The Power of Language and Audience-Centered Public Speaking** (2 -75 min. classes) | Reflective Journal (Submit Units 3 and 4 entry) | Course Text Chapters 6, 7, and 15. |
 | **Unit 5: Researching, Structuring, and Outlining a Speech** (2 -75 min. classes) | Reflective Journal | Course Text Chapters 8, 9, 10, 11, 12, 13, 14 |
-| **Unit 6: Presentation Aids and Speech Delivery** (1 week) | Reflective Journal Mid-term Exam (15%) | Course text Chapters 20, 17 and 18. |
+| **Unit 6: Presentation Aids and Speech Delivery** (1 week) | Reflective Journal | Course text Chapters 20, 17 and 18. |
 
 | **Unit 7: Informative Speeches**  | Demonstration Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 10, 12, 20, 21, 22. |
 | **Unit 8: Persuasive Speeches**  | Persuasive Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 23, 24. |
@@ -691,37 +691,10 @@ Specifics about demonstrations speeches will be in Unit 7.
 ### Unit 7
 
 
-- This class will take 2-3 weeks, depending on your term schedule.
-
-
 - Confirm the time limit for the speech (e.g. 6-7 minutes, depending on number
 of students and term schedule)
 
-
-- Activity 7.1: Ask students to share their differences with a peer.
-
-
-- Refer to the award list and ask students to make a note in their journals
-after each speech of this unit as to who should be nominated for an award.
-
-
-:Before the speeches, please study the Informative_Speech_Evaluation&Feedback_Form
-
-
-
-
-### Unit 8
-
-
-- Confirm the time limit for the speech (e.g. 6-7 minutes, depending on number
-of students and term schedule)
-
-
-- This can be important activity to cover in class: Activity 8.1: Comparing and Contrasting Demonstration and Informative Speeches
-
-
-* Reflect on what you learned from your demonstration speech (the good and the
-bad) and how that experience can help you create and deliver a strong
+ and how that experience can help you create and deliver a strong
 informative speech. Be prepared to share your thoughts with your Facilitator and
 classmates.
 
@@ -731,9 +704,13 @@ after each speech of this unit as to who should be nominated for an award.
 
 
 Study chapters 23.4 and 24.4, 24.5 as you create your preparation outline and be sure to submit it to your Facilitator and teacher before you speak. This is very important and mandatory. 
+- Refer to the award list and ask students to make a note in their journals
+after each speech of this unit as to who should be nominated for an award.
 
 
-### Unit 9
+Before the speeches, please study the Informative_Speech_Evaluation&Feedback_Form
+
+### Unit 8
 
 
 - Confirm the time limit for the speech (e.g. 6-7 minutes, depending on number
