@@ -28,13 +28,11 @@ After successfully completing the course, you will be able to:
 
 | **Assignment** | **% of Grade** | **Notes** |
 |----------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Class Participation | 20% | Participation marks will be based on the following: Class Attendance and Participation (4%) Reflective Journal (10%) Speech Judging (4%) Peer Feedback (2%) See Participation Guidelines for more details. |
+| Class Participation | 30% | Participation marks will be based on the following: Class Attendance and Participation (10%) Reflective Journal (10%) Speech Judging (5%) Peer Feedback (5%) See Participation Guidelines for more details. |
 | Icebreaker Speech | 0% | A way to allow students to try public speaking without the fear of judgement or graded evaluation. |
-| Midterm Exam | 15% | Multiple choice questions will test how well the students have learned the theoretical component of the course (Units 1-6) |
-| Demonstration Speech | 20% | Students must hand in an outline based on the course template before they deliver their speech. After the speech each student must submit a brief write up of what they learned from the experience, an honest assessment of what worked and did not work, and their plan in the days ahead to improve their public speaking skills. |
-| Informative Speech | 20% | Students must hand in an outline based on the course template before they deliver their speech. After the speech each student must submit a brief write up of what they learned from the experience, an honest assessment of what worked and did not work, and their plan in the days ahead to improve their public speaking skills. |
-| Persuasive Speech | 25% | Students must hand in an outline based on the course template before they deliver their speech. After the speech each student must submit a brief write up of what they learned from the experience, an honest assessment of what worked and did not work, and their plan in the days ahead to improve their public speaking skills. |
-| Celebratory Speeches | 0% | A fun way to recap the course and celebrate accomplishments for work well done. Bring snacks and drinks. |
+| Informative Speech | 30% | Students must hand in an outline based on the course template before they deliver their speech. After the speech each student must submit a brief write up of what they learned from the experience, an honest assessment of what worked and did not work, and their plan in the days ahead to improve their public speaking skills. |
+| Persuasive Speech | 40% | Students must hand in an outline based on the course template before they deliver their speech. After the speech each student must submit a brief write up of what they learned from the experience, an honest assessment of what worked and did not work, and their plan in the days ahead to improve their public speaking skills. |
+
  
 ## Course Texts:
 Beebe, S. and Beebe, S. J. *A Concise Public Speaking Handbook*. 5th Edition. Pearson, 2018. Access the text online at: <https://revel.pearson.com/#/courses/5c657df8e4b0382938d71581/toc>
@@ -56,10 +54,10 @@ Note that Facilitator may change the schedule, depending on the campus term date
 | **Unit 4: The Power of Language and Audience-Centered Public Speaking** | Reflective Journal (Submit Units 3 and 4 entry) | Course Text Chapters 6, 7, and 15. |
 | **Unit 5: Researching, Structuring, and Outlining a Speech** | Reflective Journal | Course Text Chapters 8, 9, 10, 11, 12, 13, 14 |
 | **Unit 6: Presentation Aids and Speech Delivery** | Reflective Journal Mid-term Exam (15%) | Course text Chapters 20, 17 and 18. |
-| **Unit 7: Demonstration Speeches** | Demonstration Speech (20%) Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 16 and 19 |
-| **Unit 8: Informative Speeches** | Demonstration Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 10, 12, 20, 21, 22. |
-| **Unit 9: Persuasive Speeches** | Persuasive Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 23, 24. |
-| **Unit 10: Special Occasion, Commemorative, and Celebratory Speeches** | Award Ceremony Speech (non-graded) Reflective Journal (Submit all entries Units 1-10) | Course Text Chapter 25. |
+
+| **Unit 7: Informative Speeches** | Demonstration Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 10, 12, 20, 21, 22. |
+| **Unit 8: Persuasive Speeches** | Persuasive Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 23, 24. |
+
 
 
 
@@ -208,10 +206,10 @@ Note that students will do some learning activities online / at home, and other 
 | **Unit 4: The Power of Language and Audience-Centered Public Speaking** (2 -75 min. classes) | Reflective Journal (Submit Units 3 and 4 entry) | Course Text Chapters 6, 7, and 15. |
 | **Unit 5: Researching, Structuring, and Outlining a Speech** (2 -75 min. classes) | Reflective Journal | Course Text Chapters 8, 9, 10, 11, 12, 13, 14 |
 | **Unit 6: Presentation Aids and Speech Delivery** (1 week) | Reflective Journal Mid-term Exam (15%) | Course text Chapters 20, 17 and 18. |
-| **Unit 7: Demonstration Speeches** (2-3 weeks) | Demonstration Speech (20%) Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 16 and 19 |
-| **Unit 8: Informative Speeches** (2-3 weeks) | Demonstration Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 10, 12, 20, 21, 22. |
-| **Unit 9: Persuasive Speeches** (2-3 weeks) | Persuasive Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 23, 24. |
-| **Unit 10: Special Occasion, Commemorative, and Celebratory Speeches** (1 class) | Award Ceremony Speech (non-graded) Reflective Journal (Submit all entries Units 1-10) | Course Text Chapter 25. |
+
+| **Unit 7: Informative Speeches**  | Demonstration Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 10, 12, 20, 21, 22. |
+| **Unit 8: Persuasive Speeches**  | Persuasive Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 23, 24. |
+
 
 
 
@@ -309,18 +307,6 @@ time).
 quizzes (online textbook)
 
 
-### **Midterm**
-
-
-- There will be a midterm after Unit 6. Be sure to tell students that they
-should know all of the terms and concepts covered in the course units 1-6
-and have practiced all of the short quizzes in the units, as this will help
-them do well on the exam.
-
-
-- The midterm will be 30 multiple choice questions and students will have 1
-hour to complete the exam.
-
 
 ### **Speech Practice:**
 
@@ -342,10 +328,10 @@ depends on the length of the course, contact hours and number of students.
 Average for speeches:
 
 
-1. Non-graded “ice-breaker” speech: 3-4 minutes
+1. Non-graded “ice-breaker” speech: 3-4 minutes (this is optional)
 
 
-2. Demonstration Speech: 4-5 minutes
+2. Demonstration Speech: 4-5 minutes (this is optional)
 
 
 3. Informative Speech: 6-7 minutes
@@ -354,7 +340,6 @@ Average for speeches:
 4. Persuasive Speech: 9-10 minutes
 
 
-5. Non-graded Awards Speech: 5 minutes
 
 
 - Make a note to see how well the length of the speeches worked or did not
@@ -499,6 +484,7 @@ and it takes a long time to master the art and craft of public speaking.
 
 #### Celebration Speech Presentations
 
+This is optional depending on the semester! please check with your professor.
 
 - For the Unit 10 celebration speeches – make it a party! Ask students to
 bring food, non-alcoholic drinks, invite family and friends.
