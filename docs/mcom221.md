@@ -42,10 +42,10 @@ exact date with your Facilitator).*
 
 | **Assignment**     | **Points** | **Due**        |
 | ------------------ | ---------- | -------------- |
-| Assignment 1: In-Camera Exercise | 10 points  | End of Unit 6  |
-| Assignment 2: Montage Project    | 20 points  | End of Unit 7  |
-| Assignment 3: Final Film Project | 40 points  | End of Unit 9 |
-| Final Exam: Self-Assessment / Course Journal     | 30 points  | End of Unit 10 |
+| Assignment 1: In-Camera Exercise | 0 points  | End of Unit 6  |
+| Assignment 2: Montage Project    | 30 points  | End of Unit 7  |
+| Assignment 3: Final Film Project | 30 points  | End of Unit 8 |
+| Self-Assessment / Course Journal     | 40 points  | End of Unit 9 |
 | TOTAL              | 100 points |                |
 
 
@@ -97,13 +97,6 @@ exact date with your Facilitator).*
 
   - Remind students to not be too hard on themselves. They may be just beginning and it takes a long time to master the art and craft of public speaking.
 
-#### Celebration Speech Presentations
-
-  - **For the Unit 10 celebration session – make it a party\! Ask students to bring food, non-alcoholic drinks, invite family and friends.**
-
-  - **Invitations to family and friends should be relative to the venue (try to book an auditorium)**
-
-  - If there is time and you feel comfortable doing so, feel free to give an encouraging comment about each student.
 
   - The Facilitator will need to print the awards for Best Short Film, Best Montage, Most Improved Film, etc. on a thick paper stock (good quality). See **template** provided. This should be signed by the Facilitator, and use a handwriting font for the instructor’s signature (e.g. Ned Vankevich, Ph.D)
 
@@ -169,9 +162,7 @@ The following are specific notes from the instructor about the units:
 
   - Have the students share some of their most challenging issues or “Murphy’s Law” moments and how they did or did not overcome them during the making of their final project.
 
-### Unit 10
 
-  - Have the students give words of affirmation andencouragement to their peers as they head out into the world to apply their skills and insights.
 
 # Course Resources
 
