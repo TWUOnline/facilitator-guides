@@ -54,8 +54,7 @@ Note that Facilitator may change the schedule, depending on the campus term date
 | **Unit 4: The Power of Language and Audience-Centered Public Speaking** | Reflective Journal (Submit Units 3 and 4 entry) | Course Text Chapters 6, 7, and 15. |
 | **Unit 5: Researching, Structuring, and Outlining a Speech** | Reflective Journal | Course Text Chapters 8, 9, 10, 11, 12, 13, 14 |
 | **Unit 6: Presentation Aids and Speech Delivery** | Reflective Journal  | Course text Chapters 20, 17 and 18. |
-
-| **Unit 7: Informative Speeches** | Demonstration Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 10, 12, 20, 21, 22. |
+| **Unit 7: Informative Speeches** | Informative Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 10, 12, 20, 21, 22. |
 | **Unit 8: Persuasive Speeches** | Persuasive Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 23, 24. |
 
 
@@ -216,7 +215,6 @@ Note that students will do some learning activities online / at home, and other 
 
 ## Class Activities
 
-
 The following sections outline key information you will need to plan and facilitate this course.
 **Note that once you have mapped out the course (specific units to
 dates), send the updated syllabus to the instructor.**
@@ -277,7 +275,6 @@ on Moodle by Friday.**
 
 
 **In-class Learning Activities**
-================================
 
 
 ### **Discussions**
@@ -311,7 +308,7 @@ quizzes (online textbook)
 ### **Speech Practice:**
 
 
-- Students will deliver speeches in Units 3, 7, 8, 9, and 10. Be sure to give
+- Students will deliver speeches in Units 3, 7, 8. Be sure to give
 them at least one class to practice with a partner, and then depending on
 your timeline, how many students, etc., you will need to plan out how many
 additional classes you will need for the presentations and feedback.
@@ -331,14 +328,10 @@ Average for speeches:
 1. Non-graded “ice-breaker” speech: 3-4 minutes (this is optional)
 
 
-2. Demonstration Speech: 4-5 minutes (this is optional)
+2. Informative Speech: 6-7 minutes with at least 3 reference （this may change due to student number, please double check with Prof Ned）
 
 
-3. Informative Speech: 6-7 minutes
-
-
-4. Persuasive Speech: 9-10 minutes
-
+3. Persuasive Speech: 9-10 minutes with at least 4 reference（this may change due to student number, please double check with Prof Ned）
 
 
 
@@ -482,29 +475,6 @@ speech. Refer to the Self-Evaluation guidelines.
 and it takes a long time to master the art and craft of public speaking.
 
 
-#### Celebration Speech Presentations
-
-This is optional depending on the semester! please check with your professor.
-
-- For the Unit 10 celebration speeches – make it a party! Ask students to
-bring food, non-alcoholic drinks, invite family and friends.
-
-
-- Initiation to family and friends should be relative to the venue (try to
-book an auditorium)
-
-
-- If there is time and you feel comfortable doing so, feel free to give an
-encouraging comment about each student.
-
-
-- The Facilitator will need to print the awards on a thick paper stock (good
-quality). See **template** provided. This should be signed by the
-Facilitator, and use a handwriting font for the instructor’s signature (e.g.
-Ned Vankevich, Ph.D)
-
-
-
 
 See Lesson Notes for more details on individual Units.
 
@@ -572,16 +542,6 @@ review it.
 said is all good or all bad. Snap conclusions are a sure way to short
 circuit the listening and understanding process.
 
-
-- Activity 2.6: Share what it means to be an ethical public speaker and why it
-is important. Consider also how ethical speaking can help you and your
-society.
-
-
-- Activity 2.7: Plagiarism: Put the students in groups and ask them to answer
-the following question and share their responses with their classmates.
-
-
 - Which of these speech topics is ethical and which are not and why:
 
 
@@ -639,7 +599,7 @@ should be nominated for an award.
 ### Unit 4
 
 
-- Suggested time two 75 min. classes
+- Suggested time one 75 min. class
 
 
 - Point out Topic 3: Techniques for Using Language Effectively
@@ -675,14 +635,29 @@ add a tongue-twister in your native language and share during your live sessions
 ### Unit 5
 
 
-- Suggested time two 75 min. classes
+- Suggested one two 75 min. class
 
 
-- Go over the Interviewing Guidelines document with students.
+- This unit is divided into the following topics:
+
+Finding the Right Speech Topic and Its Purpose
+Researching and Supporting the Central Idea
+Crafting a Strong Introduction
+Organizing the Main Body of Your Speech
+Crafting an Effective Conclusion
+Outlining Your Speech
+
+Share the outline template with student and give them an example.
+Activity: ask students to come up with one of two topics they may want to speak on.
 
 
 ### Unit 6
 
+This unit is divided into the following topics:
+
+Creating and Using Presentation Aids
+Speech Delivery Techniques
+Enunciation, Articulation, and Pronunciation Practice
 
 - Prepare students for speeches starting next week. Go over guidelines.
 Specifics about demonstrations speeches will be in Unit 7.
@@ -703,35 +678,20 @@ classmates.
 after each speech of this unit as to who should be nominated for an award.
 
 
-Study chapters 23.4 and 24.4, 24.5 as you create your preparation outline and be sure to submit it to your Facilitator and teacher before you speak. This is very important and mandatory. 
-- Refer to the award list and ask students to make a note in their journals
-after each speech of this unit as to who should be nominated for an award.
-
+Study chapters 23.4 and 24.4, 24.5 as you create your preparation outline and be sure to submit it to your teacher before you speak. This is very important and mandatory. 
 
 Before the speeches, please study the Informative_Speech_Evaluation&Feedback_Form
 
 ### Unit 8
 
-
 - Confirm the time limit for the speech (e.g. 6-7 minutes, depending on number
 of students and term schedule)
 
-
-- Refer to the award list and ask students to make a note in their journals
-after each speech of this unit as to who should be nominated for an award.
-
-
-- Ask students to send their list of who deserves which award to the
-Facilitator and Instructor by the end of Unit 9.
-
+as you create your preparation outline and be sure to submit it to your teacher before you speak. This is very important and mandatory. 
 
 - After each speech, students should have written in their journals who
 the best speeches were given by. Before they vote, ask them to
 review their notes.
-
-
-- TBD: Online vote or paper?
-• The Facilitator will need to print the awards on a thick paper stock (good quality). See template provided. This should be signed by the Facilitator, and use a handwriting font for the instructor’s signature (e.g. Ned Vankevich, Ph.D)
 
 
 ## Resources
