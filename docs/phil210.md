@@ -1,3 +1,4 @@
+<!--
 ## Session 1: PHIL 210 - SMART goals for academic success
 Student Learning Outcome: At the end of this lesson, students will be able to:
 - Understand the importance of setting goals to succeed academically.
@@ -32,6 +33,7 @@ Truth and Lie (Campbell, 2016): Arraange the participants into groups of four pe
 - Partner Project Presentation
 4.	Grammarly
 5.	NO READING WEEK
+
 
 **Introduction**
 
@@ -419,6 +421,5 @@ We Value Your Feedback
 1. What advice would you give to a new PHIL 210 student? 
 2. What were the things you wished you knew ahead of time?
 3. What suggestions do you have to improve the course and the facilitation labs?
-
-
+-->
 
