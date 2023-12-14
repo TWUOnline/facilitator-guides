@@ -1,0 +1,1 @@
+pandoc u7.docx -s -o u7.md --to=gfm --wrap=none --extract-media=assets
