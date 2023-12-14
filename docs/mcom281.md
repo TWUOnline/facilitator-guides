@@ -205,7 +205,6 @@ Note that students will do some learning activities online / at home, and other 
 | **Unit 4: The Power of Language and Audience-Centered Public Speaking** (2 -75 min. classes) | Reflective Journal (Submit Units 3 and 4 entry) | Course Text Chapters 6, 7, and 15. |
 | **Unit 5: Researching, Structuring, and Outlining a Speech** (2 -75 min. classes) | Reflective Journal | Course Text Chapters 8, 9, 10, 11, 12, 13, 14 |
 | **Unit 6: Presentation Aids and Speech Delivery** (1 week) | Reflective Journal | Course text Chapters 20, 17 and 18. |
-
 | **Unit 7: Informative Speeches**  | Demonstration Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 10, 12, 20, 21, 22. |
 | **Unit 8: Persuasive Speeches**  | Persuasive Speech Peer Judges and Group Evaluators (5%) Reflective Journal | Course Text Chapters 23, 24. |
 
