@@ -1,4 +1,5 @@
-# **Facilitator’s Guide for PHIL 210**
+# **Facilitator’s Guide for PHIL 210- 6 Weeks**
+
 
 This guide will give you an overview of the course, including the syllabus, suggested facilitation strategies for synchronous sessions, and instructor notes. Please also review the course contents in Moodle. All assignments and learning activities for each unit are explained in detail, and this guide is meant to supplement the information found in the Moodle course.
 
@@ -445,6 +446,7 @@ Read the Unit overviews, unit learning outcomes, topics, activity checklists, an
 </table>
 
 <!--
+# 10 Weeks Course#
 ## Session 1: PHIL 210 - SMART goals for academic success
 Student Learning Outcome: At the end of this lesson, students will be able to:
 - Understand the importance of setting goals to succeed academically.
