@@ -446,7 +446,7 @@ Read the Unit overviews, unit learning outcomes, topics, activity checklists, an
 </table>
 
 <!--
-# 10 Weeks Course#
+# 10 Weeks Course
 ## Session 1: PHIL 210 - SMART goals for academic success
 Student Learning Outcome: At the end of this lesson, students will be able to:
 - Understand the importance of setting goals to succeed academically.
