@@ -146,7 +146,7 @@ Read the Unit overviews, unit learning outcomes, topics, activity checklists, an
 
 ### Setting goals for academic success
 
-#### Student Learning Outcome {-}
+#### Student Learning Outcome 
 
 At the end of this lesson, students will be able to: Understand the importance of setting goals to succeed academically. Discover their unique motivation to learn. Develop personal goals and strategies to complete PHIL 210 course|
 
